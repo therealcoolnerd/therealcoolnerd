@@ -67,9 +67,6 @@ Lore:        A developer stuck between 1985 and 2077. Turning caffeine into code
   <a href="https://github.com/therealcoolnerd">
     <img src="https://github-readme-stats.vercel.app/api?username=therealcoolnerd&show_icons=true&bg_color=000000&title_color=BC13FE&icon_color=00F5FF&text_color=FFFFFF&border_color=FF00FF&hide_border=false" />
   </a>
-  <a href="https://github.com/therealcoolnerd">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=therealcoolnerd&theme=dark&background=000000&stroke=BC13FE&ring=FF00FF&fire=FF00FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=FFFFFF&border=00F5FF&hide_border=false" />
-  </a>
 </div>
 
 <br/>
