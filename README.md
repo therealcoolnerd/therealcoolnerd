@@ -100,7 +100,11 @@ user@therealcoolnerd:~$ _
 
 <div align="center">
   <a href="https://github.com/therealcoolnerd/omni">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealcoolnerd&repo=omni&bg_color=000000&title_color=00F5FF&text_color=FFFFFF&border_color=FF00FF&icon_color=00F5FF" alt="omni repo" />
+    <img src="https://img.shields.io/badge/◈_OMNI-000000?style=for-the-badge&logoColor=00F5FF&labelColor=000000&color=BC13FE" />
+    <br/><br/>
+    <img src="https://img.shields.io/badge/author-therealcoolnerd-000000?style=flat-square&labelColor=FF00FF&color=000000" />
+    <img src="https://img.shields.io/badge/status-IN_DEVELOPMENT-000000?style=flat-square&labelColor=00F5FF&color=000000" />
+    <img src="https://img.shields.io/badge/github-view_repo-000000?style=flat-square&logo=github&logoColor=white&labelColor=BC13FE&color=000000" />
   </a>
 </div>
 
