@@ -118,7 +118,7 @@ user@therealcoolnerd:~$ _
 </h2>
 
 <div align="center">
-  <a href="https://therealcoolnerd.com">
+  <a href="https://therealcool.site">
     <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=google-chrome&logoColor=00F5FF" />
   </a>
   <a href="https://twitter.com/therealcoolnerd">
