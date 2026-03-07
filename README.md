@@ -61,25 +61,11 @@ user@therealcoolnerd:~$ _
 </h2>
 
 <div align="center">
-
-| **THE ARCADE** | **THE MAINFRAME** | **THE HOLODECK** |
-| :---: | :---: | :---: |
-| `Frontend` | `Backend` | `Creative` |
-| ![React](https://img.shields.io/badge/REACT-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Solidity](https://img.shields.io/badge/SOLIDITY-363636?style=for-the-badge&logo=solidity&logoColor=white) | ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
-| ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Blender](https://img.shields.io/badge/BLENDER-ea7600?style=for-the-badge&logo=blender&logoColor=white) |
-| ![Three.js](https://img.shields.io/badge/THREE.JS-000000?style=for-the-badge&logo=three.js&logoColor=white) | ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Adobe CC](https://img.shields.io/badge/ADOBE_CC-DA344D?style=for-the-badge&logo=adobe%20creative%20cloud&logoColor=white) |
-
-</div>
-
-<br/>
-
-<!-- HALL OF FAME -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=FFD700&background=00000000&center=true&vCenter=true&width=600&height=50&lines=HALL+OF+FAME" alt="Hall of Fame" />
-</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=therealcoolnerd&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=4&margin-h=4" alt="Trophies" width="100%" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,threejs,html,css,tailwind&theme=dark&perline=8" alt="Frontend Skills" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,solidity,rust,go,graphql,postgres,mongodb&theme=dark&perline=8" alt="Backend Skills" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=figma,blender,ae,ps,unity,unreal,git,github&theme=dark&perline=8" alt="Creative & Tools" />
 </div>
 
 <br/>
@@ -92,10 +78,6 @@ user@therealcoolnerd:~$ _
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=therealcoolnerd&show_icons=true&bg_color=000000&title_color=BC13FE&icon_color=00F5FF&text_color=FFFFFF&border_color=FF00FF&hide_border=false&count_private=true&rank_icon=github" />
   <img height="180em" src="https://streak-stats.demolab.com?user=therealcoolnerd&theme=highcontrast&background=000000&border=FF00FF&ring=00F5FF&fire=BC13FE&currStreakNum=00F5FF&sideNums=FFFFFF&currStreakLabel=FF00FF&sideLabels=FFFFFF&dates=888888&hide_border=false" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealcoolnerd&layout=compact&bg_color=000000&title_color=BC13FE&text_color=FFFFFF&border_color=00F5FF&hide_border=false&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
@@ -116,11 +98,17 @@ user@therealcoolnerd:~$ _
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=FF00FF&background=00000000&center=true&vCenter=true&width=600&height=50&lines=MISSION+LOG" alt="Mission Log" />
 </h2>
 
-<div align="center">
-  <a href="https://github.com/therealcoolnerd/omni">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealcoolnerd&repo=omni&bg_color=000000&title_color=00F5FF&text_color=FFFFFF&border_color=FF00FF&icon_color=00F5FF" alt="omni repo" />
-  </a>
-</div>
+```
+> ACCESSING MISSION FILES...
+> STATUS: [CLASSIFIED]
+> CLEARANCE LEVEL REQUIRED: ULTRA
+>
+> Several active builds in progress.
+> Public deployments incoming.
+> Stand by...
+>
+> ETA: SOON™  █████░░░░░ 47%
+```
 
 <br/>
 
