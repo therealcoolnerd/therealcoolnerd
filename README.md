@@ -98,17 +98,11 @@ user@therealcoolnerd:~$ _
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=FF00FF&background=00000000&center=true&vCenter=true&width=600&height=50&lines=MISSION+LOG" alt="Mission Log" />
 </h2>
 
-```
-> ACCESSING MISSION FILES...
-> STATUS: [CLASSIFIED]
-> CLEARANCE LEVEL REQUIRED: ULTRA
->
-> Several active builds in progress.
-> Public deployments incoming.
-> Stand by...
->
-> ETA: SOON™  █████░░░░░ 47%
-```
+<div align="center">
+  <a href="https://github.com/therealcoolnerd/omni">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealcoolnerd&repo=omni&bg_color=000000&title_color=00F5FF&text_color=FFFFFF&border_color=FF00FF&icon_color=00F5FF" alt="omni repo" />
+  </a>
+</div>
 
 <br/>
 
